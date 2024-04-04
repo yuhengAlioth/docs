@@ -63,7 +63,7 @@
 
 使用`PicGo`软件进行图床管理，==注意：PicGo路径里需要选中`PicGo.exe`这个程序==
 
-![Typora配置图床软件PicGo](https://s2.loli.net/2024/04/04/fHRJeBc74rxCvth.png)
+![![Typora配置图床软件PicGo](https://s2.loli.net/2023/09/22/Wl5IfBPn2Q9mdyv.png)](https://s2.loli.net/2024/04/04/tihWjCMFNXS1oln.png)
 
 ### SM.MS图床
 
