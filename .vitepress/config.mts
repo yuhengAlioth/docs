@@ -2,7 +2,7 @@
  * @Date: 2024-04-02 14:32:03
  * @作者: 七星玉蘅
  * @邮箱: 1532250426@qq.com
- * @LastEditTime: 2024-04-02 16:32:48
+ * @LastEditTime: 2024-05-07 17:37:16
  * @FilePath: \docs\.vitepress\config.mts
  */
 import { defineConfig } from "vitepress";
@@ -12,7 +12,7 @@ import sidebar from "./sidebar";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   // 站点访问路径
-  base: "/docs",
+  base: "/docs/",
   // 配置文件读取的位置
   srcDir: "docs/",
   // 语言
