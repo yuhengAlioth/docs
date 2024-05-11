@@ -151,6 +151,15 @@ export default [
           { text: "IDEA配置", link: "/programming/configuration/IDEA配置" },
         ],
       },
+      {
+        text: "其他配置",
+        items: [
+          {
+            text: "windows终端美化",
+            link: "/programming/configuration/windows终端美化",
+          },
+        ],
+      },
     ],
   },
   // 拓展导航
