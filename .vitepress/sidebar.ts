@@ -139,8 +139,8 @@ export default {
           text: "其他配置",
           items: [
             {
-              text: "windows终端美化",
-              link: "/programming/configuration/windows终端美化",
+              text: "终端美化",
+              link: "/programming/configuration/终端美化",
             },
           ],
         },
