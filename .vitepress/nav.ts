@@ -193,4 +193,16 @@ export default [
       },
     ],
   },
+  // 个人作品
+  {
+    text: "个人作品",
+    items: [
+      {
+        text: "主题",
+        items: [
+          { text: "Typora主题", link: "/programming/project/Typora主题" },
+        ],
+      },
+    ],
+  },
 ];
