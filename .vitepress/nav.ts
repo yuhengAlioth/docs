@@ -86,6 +86,10 @@ export default [
             text: "Electron入门",
             link: "/programming/desktop/electron/basis/Electron入门",
           },
+          {
+            text: "Q&A",
+            link: "/programming/desktop/electron/basis/Q&A",
+          },
         ],
       },
       {
